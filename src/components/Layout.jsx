@@ -152,12 +152,12 @@ const Layout = ({ children }) => {
                   <div className="dropdown-menu">
                     <button className="menu-item" onClick={() => {
                       setShowMenu(false);
-                      if (window.confirm("क्या आप वाकई इतिहास और कैश साफ़ करना चाहते हैं?")) {
+                      if (window.confirm("Are you sure you want to clear history and cache?")) {
                         clearHistory();
                       }
                     }}>
                       <DeleteIcon />
-                      <span>इतिहास और कैश साफ़ करें</span>
+                      <span>Clear History</span>
                     </button>
                   </div>
                 )}
