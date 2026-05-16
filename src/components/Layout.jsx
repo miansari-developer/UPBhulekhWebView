@@ -1,3 +1,4 @@
+import { useState, useEffect, useRef } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { useBhulekh } from '../hooks/useBhulekh';
 
@@ -32,9 +33,18 @@ export const DeleteIcon = () => (
   </svg>
 );
 
+export const MoreIcon = () => (
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+    <path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" />
+  </svg>
+);
+
 const Layout = ({ children }) => {
   const navigate = useNavigate();
   const location = useLocation();
+  const [showMenu, setShowMenu] = useState(false);
+  const menuRef = useRef(null);
+
   const {
     isSearching,
     setIsSearching,
@@ -46,6 +56,20 @@ const Layout = ({ children }) => {
     toast,
     clearHistory
   } = useBhulekh();
+
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (menuRef.current && !menuRef.current.contains(event.target)) {
+        setShowMenu(false);
+      }
+    };
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
+
+  useEffect(() => {
+    setShowMenu(false);
+  }, [location.pathname]);
 
   const handleBack = () => {
     if (isSearching) {
@@ -120,13 +144,24 @@ const Layout = ({ children }) => {
               </button>
             )}
             {location.pathname === '/' && !isSearching && (
-              <button className="icon-button" onClick={() => {
-                if (window.confirm("क्या आप वाकई इतिहास और कैश साफ़ करना चाहते हैं?")) {
-                  clearHistory();
-                }
-              }} aria-label="Clear History" title="Clear History">
-                <DeleteIcon />
-              </button>
+              <div className="menu-container" ref={menuRef}>
+                <button className="icon-button" onClick={() => setShowMenu(!showMenu)} aria-label="More options">
+                  <MoreIcon />
+                </button>
+                {showMenu && (
+                  <div className="dropdown-menu">
+                    <button className="menu-item" onClick={() => {
+                      setShowMenu(false);
+                      if (window.confirm("क्या आप वाकई इतिहास और कैश साफ़ करना चाहते हैं?")) {
+                        clearHistory();
+                      }
+                    }}>
+                      <DeleteIcon />
+                      <span>इतिहास और कैश साफ़ करें</span>
+                    </button>
+                  </div>
+                )}
+              </div>
             )}
           </>
         )}
