@@ -1,0 +1,1902 @@
+{
+    "132": [
+        {
+            "tehsil_name": "देवबन्द",
+            "tehsil_code_census": "00704",
+            "tehsil_name_english": "Deoband"
+        },
+        {
+            "tehsil_name": "नकुड़",
+            "tehsil_code_census": "00703",
+            "tehsil_name_english": "Nakur"
+        },
+        {
+            "tehsil_name": "बेहट",
+            "tehsil_code_census": "00701",
+            "tehsil_name_english": "Behat"
+        },
+        {
+            "tehsil_name": "रामपुर मनिहारान",
+            "tehsil_code_census": "00705",
+            "tehsil_name_english": "Rampur Maniharan"
+        },
+        {
+            "tehsil_name": "सहारनपुर",
+            "tehsil_code_census": "00702",
+            "tehsil_name_english": "Saharanpur"
+        }
+    ],
+    "133": [
+        {
+            "tehsil_name": "खतौली",
+            "tehsil_code_census": "00710",
+            "tehsil_name_english": "Khatauli"
+        },
+        {
+            "tehsil_name": "जानसठ",
+            "tehsil_code_census": "00711",
+            "tehsil_name_english": "Janst"
+        },
+        {
+            "tehsil_name": "बुढ़ाना",
+            "tehsil_code_census": "00709",
+            "tehsil_name_english": "Budhana"
+        },
+        {
+            "tehsil_name": "सदर",
+            "tehsil_code_census": "00708",
+            "tehsil_name_english": "Muzaffarnagar"
+        }
+    ],
+    "134": [
+        {
+            "tehsil_name": "चाँदपुर",
+            "tehsil_code_census": "00716",
+            "tehsil_name_english": "Chandpur"
+        },
+        {
+            "tehsil_name": "धामपुर",
+            "tehsil_code_census": "00715",
+            "tehsil_name_english": "Dhampur"
+        },
+        {
+            "tehsil_name": "नगीना",
+            "tehsil_code_census": "00714",
+            "tehsil_name_english": "Nagina"
+        },
+        {
+            "tehsil_name": "नजीबाबाद",
+            "tehsil_code_census": "00712",
+            "tehsil_name_english": "Najibabad"
+        },
+        {
+            "tehsil_name": "बिजनौर",
+            "tehsil_code_census": "00713",
+            "tehsil_name_english": "Bijnor"
+        }
+    ],
+    "135": [
+        {
+            "tehsil_name": "कांठ",
+            "tehsil_code_census": "00718",
+            "tehsil_name_english": "Kant"
+        },
+        {
+            "tehsil_name": "ठाकुरद्वारा",
+            "tehsil_code_census": "00717",
+            "tehsil_name_english": "Thakurdwara"
+        },
+        {
+            "tehsil_name": "बिलारी",
+            "tehsil_code_census": "00720",
+            "tehsil_name_english": "Bilari"
+        },
+        {
+            "tehsil_name": "मुरादाबाद",
+            "tehsil_code_census": "00719",
+            "tehsil_name_english": "Moradabad"
+        }
+    ],
+    "136": [
+        {
+            "tehsil_name": "टाण्डा",
+            "tehsil_code_census": "00724",
+            "tehsil_name_english": "Tanda"
+        },
+        {
+            "tehsil_name": "बिलासपुर",
+            "tehsil_code_census": "00725",
+            "tehsil_name_english": "Bilaspur"
+        },
+        {
+            "tehsil_name": "मिलक",
+            "tehsil_code_census": "00728",
+            "tehsil_name_english": "Milk"
+        },
+        {
+            "tehsil_name": "शाहवाद",
+            "tehsil_code_census": "00727",
+            "tehsil_name_english": "Shahabad "
+        },
+        {
+            "tehsil_name": "सदर",
+            "tehsil_code_census": "00726",
+            "tehsil_name_english": "Rampur"
+        },
+        {
+            "tehsil_name": "स्वार",
+            "tehsil_code_census": "00723",
+            "tehsil_name_english": "Suar"
+        }
+    ],
+    "137": [
+        {
+            "tehsil_name": "अमरोहा",
+            "tehsil_code_census": "00730",
+            "tehsil_name_english": "Amroha"
+        },
+        {
+            "tehsil_name": "धनौरा",
+            "tehsil_code_census": "00729",
+            "tehsil_name_english": "Dhanaura"
+        },
+        {
+            "tehsil_name": "नौगावां सादात",
+            "tehsil_code_census": "01056",
+            "tehsil_name_english": "Naugawan Sadat"
+        },
+        {
+            "tehsil_name": "हसनपुर",
+            "tehsil_code_census": "00731",
+            "tehsil_name_english": "Hasanpur"
+        }
+    ],
+    "138": [
+        {
+            "tehsil_name": "मवाना",
+            "tehsil_code_census": "00733",
+            "tehsil_name_english": "Mawana"
+        },
+        {
+            "tehsil_name": "सदर",
+            "tehsil_code_census": "00734",
+            "tehsil_name_english": "Meerut Sadar"
+        },
+        {
+            "tehsil_name": "सरधना",
+            "tehsil_code_census": "00732",
+            "tehsil_name_english": "Sardhana"
+        }
+    ],
+    "139": [
+        {
+            "tehsil_name": "खेकडा",
+            "tehsil_code_census": "00737",
+            "tehsil_name_english": "Kekda"
+        },
+        {
+            "tehsil_name": "बडौत",
+            "tehsil_code_census": "00735",
+            "tehsil_name_english": "Baraut"
+        },
+        {
+            "tehsil_name": "बागपत",
+            "tehsil_code_census": "00736",
+            "tehsil_name_english": "Baghpat"
+        }
+    ],
+    "140": [
+        {
+            "tehsil_name": "गाजियाबाद",
+            "tehsil_code_census": "00739",
+            "tehsil_name_english": "Ghaziabad"
+        },
+        {
+            "tehsil_name": "मोदीनगर",
+            "tehsil_code_census": "00738",
+            "tehsil_name_english": "Modinagar"
+        },
+        {
+            "tehsil_name": "लोनी",
+            "tehsil_code_census": "01028",
+            "tehsil_name_english": "Loni"
+        }
+    ],
+    "141": [
+        {
+            "tehsil_name": "गौतमबुद्धनगर",
+            "tehsil_code_census": "00743",
+            "tehsil_name_english": "Gautam Buddha Nagar"
+        },
+        {
+            "tehsil_name": "जेवर",
+            "tehsil_code_census": "00744",
+            "tehsil_name_english": "Jewar"
+        },
+        {
+            "tehsil_name": "दादरी",
+            "tehsil_code_census": "00742",
+            "tehsil_name_english": "Dadri"
+        }
+    ],
+    "142": [
+        {
+            "tehsil_name": "अनूपशहर",
+            "tehsil_code_census": "00748",
+            "tehsil_name_english": "Anupshahr"
+        },
+        {
+            "tehsil_name": "खुर्जा",
+            "tehsil_code_census": "00751",
+            "tehsil_name_english": "Khurja"
+        },
+        {
+            "tehsil_name": "डिबाई",
+            "tehsil_code_census": "00749",
+            "tehsil_name_english": "Debye"
+        },
+        {
+            "tehsil_name": "बुलन्दशहर",
+            "tehsil_code_census": "00746",
+            "tehsil_name_english": "Bulandshahar"
+        },
+        {
+            "tehsil_name": "शिकारपुर",
+            "tehsil_code_census": "00750",
+            "tehsil_name_english": "Shikarpur"
+        },
+        {
+            "tehsil_name": "सिकन्द्राबाद",
+            "tehsil_code_census": "00745",
+            "tehsil_name_english": "Sikndraabad"
+        },
+        {
+            "tehsil_name": "स्याना",
+            "tehsil_code_census": "00747",
+            "tehsil_name_english": "Siana"
+        }
+    ],
+    "143": [
+        {
+            "tehsil_name": "अतरोली",
+            "tehsil_code_census": "00754",
+            "tehsil_name_english": "Atrauli"
+        },
+        {
+            "tehsil_name": "इगलास",
+            "tehsil_code_census": "00756",
+            "tehsil_name_english": "Iglas"
+        },
+        {
+            "tehsil_name": "कोल",
+            "tehsil_code_census": "00755",
+            "tehsil_name_english": "Koil"
+        },
+        {
+            "tehsil_name": "खैर",
+            "tehsil_code_census": "00752",
+            "tehsil_name_english": "Khair"
+        },
+        {
+            "tehsil_name": "गभाना",
+            "tehsil_code_census": "00753",
+            "tehsil_name_english": "Gabhana"
+        }
+    ],
+    "144": [
+        {
+            "tehsil_name": "सादाबाद",
+            "tehsil_code_census": "00760",
+            "tehsil_name_english": "Sadabad"
+        },
+        {
+            "tehsil_name": "सासनी",
+            "tehsil_code_census": "00757",
+            "tehsil_name_english": "Sasni"
+        },
+        {
+            "tehsil_name": "सिकन्दराराऊ",
+            "tehsil_code_census": "00758",
+            "tehsil_name_english": "Siknderarau"
+        },
+        {
+            "tehsil_name": "हाथरस",
+            "tehsil_code_census": "00759",
+            "tehsil_name_english": "Hathras"
+        }
+    ],
+    "145": [
+        {
+            "tehsil_name": "गोवर्धन",
+            "tehsil_code_census": "01048",
+            "tehsil_name_english": "Govardhan"
+        },
+        {
+            "tehsil_name": "छाता",
+            "tehsil_code_census": "00761",
+            "tehsil_name_english": "Chata"
+        },
+        {
+            "tehsil_name": "महावन",
+            "tehsil_code_census": "00763",
+            "tehsil_name_english": "Mahavan"
+        },
+        {
+            "tehsil_name": "मांट",
+            "tehsil_code_census": "00762",
+            "tehsil_name_english": "Mant"
+        },
+        {
+            "tehsil_name": "सदर",
+            "tehsil_code_census": "00764",
+            "tehsil_name_english": "Mathura"
+        }
+    ],
+    "146": [
+        {
+            "tehsil_name": "आगरा",
+            "tehsil_code_census": "00766",
+            "tehsil_name_english": "Agra"
+        },
+        {
+            "tehsil_name": "एत्मादपुर",
+            "tehsil_code_census": "00765",
+            "tehsil_name_english": "Etmadpur"
+        },
+        {
+            "tehsil_name": "किरावली",
+            "tehsil_code_census": "00767",
+            "tehsil_name_english": "Kiraoli"
+        },
+        {
+            "tehsil_name": "खेरागढ़",
+            "tehsil_code_census": "00768",
+            "tehsil_name_english": "Kheragarh"
+        },
+        {
+            "tehsil_name": "फतेहाबाद",
+            "tehsil_code_census": "00769",
+            "tehsil_name_english": "Fatehabad"
+        },
+        {
+            "tehsil_name": "बाह",
+            "tehsil_code_census": "00770",
+            "tehsil_name_english": "Bah"
+        }
+    ],
+    "147": [
+        {
+            "tehsil_name": "जसराना",
+            "tehsil_code_census": "00773",
+            "tehsil_name_english": "Jasrana"
+        },
+        {
+            "tehsil_name": "टूण्डला",
+            "tehsil_code_census": "00771",
+            "tehsil_name_english": "Tundla"
+        },
+        {
+            "tehsil_name": "फिरोजाबाद",
+            "tehsil_code_census": "00772",
+            "tehsil_name_english": "Firozabad"
+        },
+        {
+            "tehsil_name": "शिकोहावाद",
+            "tehsil_code_census": "00774",
+            "tehsil_name_english": "Shikohabad"
+        },
+        {
+            "tehsil_name": "सिरसागंज",
+            "tehsil_code_census": "01040",
+            "tehsil_name_english": "Sirsaganj"
+        }
+    ],
+    "148": [
+        {
+            "tehsil_name": "करहल",
+            "tehsil_code_census": "00776",
+            "tehsil_name_english": "Karhal"
+        },
+        {
+            "tehsil_name": "किशनी",
+            "tehsil_code_census": "01033",
+            "tehsil_name_english": "Kishni"
+        },
+        {
+            "tehsil_name": "कुरावली",
+            "tehsil_code_census": "01054",
+            "tehsil_name_english": "Kurawali"
+        },
+        {
+            "tehsil_name": "घिरोर",
+            "tehsil_code_census": "01044",
+            "tehsil_name_english": "Ghiror"
+        },
+        {
+            "tehsil_name": "भोगांव",
+            "tehsil_code_census": "00777",
+            "tehsil_name_english": "Bhogaon "
+        },
+        {
+            "tehsil_name": "मैनपुरी",
+            "tehsil_code_census": "00775",
+            "tehsil_name_english": "Mainpuri"
+        }
+    ],
+    "149": [
+        {
+            "tehsil_name": "दातागंज",
+            "tehsil_code_census": "00783",
+            "tehsil_name_english": "Dataganj"
+        },
+        {
+            "tehsil_name": "बदायूँ",
+            "tehsil_code_census": "00782",
+            "tehsil_name_english": "Badaun"
+        },
+        {
+            "tehsil_name": "बिल्सी",
+            "tehsil_code_census": "00780",
+            "tehsil_name_english": "Bilsi"
+        },
+        {
+            "tehsil_name": "बिसौली",
+            "tehsil_code_census": "00779",
+            "tehsil_name_english": "Bisuli"
+        },
+        {
+            "tehsil_name": "सहसवान",
+            "tehsil_code_census": "00781",
+            "tehsil_name_english": "Sahaswan"
+        }
+    ],
+    "150": [
+        {
+            "tehsil_name": "आंवला",
+            "tehsil_code_census": "00786",
+            "tehsil_name_english": "Aonla "
+        },
+        {
+            "tehsil_name": "नवावगंज",
+            "tehsil_code_census": "00788",
+            "tehsil_name_english": "Nawabganj"
+        },
+        {
+            "tehsil_name": "फरीदपुर",
+            "tehsil_code_census": "00789",
+            "tehsil_name_english": "Faridpur"
+        },
+        {
+            "tehsil_name": "बरेली",
+            "tehsil_code_census": "00787",
+            "tehsil_name_english": "Bareilly"
+        },
+        {
+            "tehsil_name": "बहेड़ी",
+            "tehsil_code_census": "00784",
+            "tehsil_name_english": "Baheri"
+        },
+        {
+            "tehsil_name": "मीरगंज",
+            "tehsil_code_census": "00785",
+            "tehsil_name_english": "Mirganj"
+        }
+    ],
+    "151": [
+        {
+            "tehsil_name": "अमरिया",
+            "tehsil_code_census": "01059",
+            "tehsil_name_english": "Amariya"
+        },
+        {
+            "tehsil_name": "कलीनगर",
+            "tehsil_code_census": "01057",
+            "tehsil_name_english": "Kalinagar"
+        },
+        {
+            "tehsil_name": "पीलीभीत",
+            "tehsil_code_census": "00790",
+            "tehsil_name_english": "Pilibhit"
+        },
+        {
+            "tehsil_name": "पूरनपुर",
+            "tehsil_code_census": "00792",
+            "tehsil_name_english": "Puranpur"
+        },
+        {
+            "tehsil_name": "बीसलपुर",
+            "tehsil_code_census": "00791",
+            "tehsil_name_english": "Bisalpur"
+        }
+    ],
+    "152": [
+        {
+            "tehsil_name": "कलान",
+            "tehsil_code_census": "01060",
+            "tehsil_name_english": "Kalan"
+        },
+        {
+            "tehsil_name": "जलालाबाद",
+            "tehsil_code_census": "00796",
+            "tehsil_name_english": "Jalalabad"
+        },
+        {
+            "tehsil_name": "तिलहर",
+            "tehsil_code_census": "00794",
+            "tehsil_name_english": "Tilhar"
+        },
+        {
+            "tehsil_name": "पुवायाँ",
+            "tehsil_code_census": "00793",
+            "tehsil_name_english": "Powayan"
+        },
+        {
+            "tehsil_name": "सदर",
+            "tehsil_code_census": "00795",
+            "tehsil_name_english": "Shahjahanpur"
+        }
+    ],
+    "153": [
+        {
+            "tehsil_name": "गोला",
+            "tehsil_code_census": "00799",
+            "tehsil_name_english": "Gola Gokaran Nath"
+        },
+        {
+            "tehsil_name": "धौरहरा",
+            "tehsil_code_census": "00802",
+            "tehsil_name_english": "Dhaurahara"
+        },
+        {
+            "tehsil_name": "निंघासन",
+            "tehsil_code_census": "00797",
+            "tehsil_name_english": "Nighasan"
+        },
+        {
+            "tehsil_name": "पलिया",
+            "tehsil_code_census": "00798",
+            "tehsil_name_english": "Palia"
+        },
+        {
+            "tehsil_name": "मितौली",
+            "tehsil_code_census": "01030",
+            "tehsil_name_english": "Mitauli"
+        },
+        {
+            "tehsil_name": "मोहम्मदी",
+            "tehsil_code_census": "00800",
+            "tehsil_name_english": "Mohammadi"
+        },
+        {
+            "tehsil_name": "लखीमपुर खीरी",
+            "tehsil_code_census": "00801",
+            "tehsil_name_english": "Lakhimpur Kheri"
+        }
+    ],
+    "154": [
+        {
+            "tehsil_name": "बिसवां",
+            "tehsil_code_census": "00806",
+            "tehsil_name_english": "Biswan"
+        },
+        {
+            "tehsil_name": "महमूदाबाद",
+            "tehsil_code_census": "00807",
+            "tehsil_name_english": "Mahmoodabad"
+        },
+        {
+            "tehsil_name": "महोली",
+            "tehsil_code_census": "01027",
+            "tehsil_name_english": "Maholi"
+        },
+        {
+            "tehsil_name": "मिश्रिख",
+            "tehsil_code_census": "00803",
+            "tehsil_name_english": "Misrikh"
+        },
+        {
+            "tehsil_name": "लहरपुर",
+            "tehsil_code_census": "00805",
+            "tehsil_name_english": "Laharpur"
+        },
+        {
+            "tehsil_name": "सिधौली",
+            "tehsil_code_census": "00808",
+            "tehsil_name_english": "Sidhauli"
+        },
+        {
+            "tehsil_name": "सीतापुर",
+            "tehsil_code_census": "00804",
+            "tehsil_name_english": "Sitapur"
+        }
+    ],
+    "155": [
+        {
+            "tehsil_name": "बिलग्राम",
+            "tehsil_code_census": "00812",
+            "tehsil_name_english": "Bilgram"
+        },
+        {
+            "tehsil_name": "शाहाबाद",
+            "tehsil_code_census": "00809",
+            "tehsil_name_english": "Shahabad"
+        },
+        {
+            "tehsil_name": "सण्डीला",
+            "tehsil_code_census": "00813",
+            "tehsil_name_english": "Sandila"
+        },
+        {
+            "tehsil_name": "सवायजपुर",
+            "tehsil_code_census": "00810",
+            "tehsil_name_english": "Swayjpur"
+        },
+        {
+            "tehsil_name": "हरदोई",
+            "tehsil_code_census": "00811",
+            "tehsil_name_english": "Hardoi"
+        }
+    ],
+    "156": [
+        {
+            "tehsil_name": "उन्नाव",
+            "tehsil_code_census": "00816",
+            "tehsil_name_english": "Unnao"
+        },
+        {
+            "tehsil_name": "पुरवा",
+            "tehsil_code_census": "00817",
+            "tehsil_name_english": "Purwa "
+        },
+        {
+            "tehsil_name": "बांगरमऊ",
+            "tehsil_code_census": "01038",
+            "tehsil_name_english": "Bangarmau"
+        },
+        {
+            "tehsil_name": "बीघापुर",
+            "tehsil_code_census": "00818",
+            "tehsil_name_english": "Bighapur"
+        },
+        {
+            "tehsil_name": "सफीपुर",
+            "tehsil_code_census": "00814",
+            "tehsil_name_english": "Safipur"
+        },
+        {
+            "tehsil_name": "हसनगंज",
+            "tehsil_code_census": "00815",
+            "tehsil_name_english": "Hasanganj"
+        }
+    ],
+    "157": [
+        {
+            "tehsil_name": "बख्शी का तालाब",
+            "tehsil_code_census": "00820",
+            "tehsil_name_english": "Bakshi Ka Talab"
+        },
+        {
+            "tehsil_name": "मलिहाबाद",
+            "tehsil_code_census": "00819",
+            "tehsil_name_english": "Malihabad"
+        },
+        {
+            "tehsil_name": "मोहनलालगंज",
+            "tehsil_code_census": "00822",
+            "tehsil_name_english": "Mohanlalganj"
+        },
+        {
+            "tehsil_name": "लखनऊ",
+            "tehsil_code_census": "00821",
+            "tehsil_name_english": "Lucknow"
+        },
+        {
+            "tehsil_name": "सरोजनी नगर",
+            "tehsil_code_census": "01041",
+            "tehsil_name_english": "Sarojini Nagar"
+        }
+    ],
+    "158": [
+        {
+            "tehsil_name": "ऊँचाहार",
+            "tehsil_code_census": "00828",
+            "tehsil_name_english": "Unchahar"
+        },
+        {
+            "tehsil_name": "डलमऊ",
+            "tehsil_code_census": "00827",
+            "tehsil_name_english": "Dalmau"
+        },
+        {
+            "tehsil_name": "महराजगंज",
+            "tehsil_code_census": "00823",
+            "tehsil_name_english": "Maharajganj"
+        },
+        {
+            "tehsil_name": "रायबरेली",
+            "tehsil_code_census": "00825",
+            "tehsil_name_english": "Raebareli"
+        },
+        {
+            "tehsil_name": "लाल गंज",
+            "tehsil_code_census": "00826",
+            "tehsil_name_english": "Lalganj "
+        },
+        {
+            "tehsil_name": "सलोन",
+            "tehsil_code_census": "00829",
+            "tehsil_name_english": "Salon"
+        }
+    ],
+    "159": [
+        {
+            "tehsil_name": "अमृतपुर",
+            "tehsil_code_census": "00831",
+            "tehsil_name_english": "Amritpur"
+        },
+        {
+            "tehsil_name": "कायमगंज",
+            "tehsil_code_census": "00830",
+            "tehsil_name_english": "Kaymganj"
+        },
+        {
+            "tehsil_name": "र्फरुखाबाद",
+            "tehsil_code_census": "00832",
+            "tehsil_name_english": "Farrukhabad "
+        }
+    ],
+    "160": [
+        {
+            "tehsil_name": "कन्नौज",
+            "tehsil_code_census": "00834",
+            "tehsil_name_english": "Kannauj"
+        },
+        {
+            "tehsil_name": "छिबरामऊ",
+            "tehsil_code_census": "00833",
+            "tehsil_name_english": "Chhibramau"
+        },
+        {
+            "tehsil_name": "तिर्वा",
+            "tehsil_code_census": "00835",
+            "tehsil_name_english": "Tirwa"
+        }
+    ],
+    "161": [
+        {
+            "tehsil_name": "इटावा",
+            "tehsil_code_census": "00838",
+            "tehsil_name_english": "Etawah"
+        },
+        {
+            "tehsil_name": "चकरनगर",
+            "tehsil_code_census": "00840",
+            "tehsil_name_english": "Chakarnagar"
+        },
+        {
+            "tehsil_name": "जसवंतनगर",
+            "tehsil_code_census": "00836",
+            "tehsil_name_english": "Jaswantnagar"
+        },
+        {
+            "tehsil_name": "ताखा",
+            "tehsil_code_census": "01013",
+            "tehsil_name_english": "Takha"
+        },
+        {
+            "tehsil_name": "भरथना",
+            "tehsil_code_census": "00839",
+            "tehsil_name_english": "Bharthana"
+        },
+        {
+            "tehsil_name": "सैफई",
+            "tehsil_code_census": "00837",
+            "tehsil_name_english": "Saifai"
+        }
+    ],
+    "162": [
+        {
+            "tehsil_name": "अजीतमल",
+            "tehsil_code_census": "01026",
+            "tehsil_name_english": "Ajitmal"
+        },
+        {
+            "tehsil_name": "औरैया",
+            "tehsil_code_census": "00842",
+            "tehsil_name_english": "Auraiya"
+        },
+        {
+            "tehsil_name": "बिधूना",
+            "tehsil_code_census": "00841",
+            "tehsil_name_english": "Bidhuna"
+        }
+    ],
+    "163": [
+        {
+            "tehsil_name": "अकबरपुर",
+            "tehsil_code_census": "00845",
+            "tehsil_name_english": "Akbarpur"
+        },
+        {
+            "tehsil_name": "डेरापुर",
+            "tehsil_code_census": "00844",
+            "tehsil_name_english": "Derapur"
+        },
+        {
+            "tehsil_name": "भोगनीपुर",
+            "tehsil_code_census": "00846",
+            "tehsil_name_english": "Bhognipur"
+        },
+        {
+            "tehsil_name": "मैथा",
+            "tehsil_code_census": "01050",
+            "tehsil_name_english": "Maitha"
+        },
+        {
+            "tehsil_name": "रसूलाबाद",
+            "tehsil_code_census": "00843",
+            "tehsil_name_english": "Rasulabad"
+        },
+        {
+            "tehsil_name": "सिकन्दरा",
+            "tehsil_code_census": "00847",
+            "tehsil_name_english": "Sikandra"
+        }
+    ],
+    "164": [
+        {
+            "tehsil_name": "कानपुर सदर",
+            "tehsil_code_census": "00849",
+            "tehsil_name_english": "Kanpur Sadar"
+        },
+        {
+            "tehsil_name": "घाटमपुर",
+            "tehsil_code_census": "00850",
+            "tehsil_name_english": "Ghatampur"
+        },
+        {
+            "tehsil_name": "नरवल",
+            "tehsil_code_census": "01049",
+            "tehsil_name_english": "Narval"
+        },
+        {
+            "tehsil_name": "बिल्हौर",
+            "tehsil_code_census": "00848",
+            "tehsil_name_english": "Bilhaur"
+        }
+    ],
+    "165": [
+        {
+            "tehsil_name": "उरई",
+            "tehsil_code_census": "00854",
+            "tehsil_name_english": "Orai"
+        },
+        {
+            "tehsil_name": "कालपी",
+            "tehsil_code_census": "00853",
+            "tehsil_name_english": "Kalpi"
+        },
+        {
+            "tehsil_name": "कोंच",
+            "tehsil_code_census": "00855",
+            "tehsil_name_english": "Konch"
+        },
+        {
+            "tehsil_name": "जालौन",
+            "tehsil_code_census": "00852",
+            "tehsil_name_english": "Jalaun"
+        },
+        {
+            "tehsil_name": "माधौगढ़",
+            "tehsil_code_census": "00851",
+            "tehsil_name_english": "Madhogarh"
+        }
+    ],
+    "166": [
+        {
+            "tehsil_name": "गरौठा",
+            "tehsil_code_census": "00857",
+            "tehsil_name_english": "Garautha"
+        },
+        {
+            "tehsil_name": "झांसी",
+            "tehsil_code_census": "00860",
+            "tehsil_name_english": "Jhansi"
+        },
+        {
+            "tehsil_name": "टहरौली",
+            "tehsil_code_census": "00858",
+            "tehsil_name_english": "Tehroli"
+        },
+        {
+            "tehsil_name": "मऊरानीपुर",
+            "tehsil_code_census": "00859",
+            "tehsil_name_english": "Mauranipur"
+        },
+        {
+            "tehsil_name": "मोंठ",
+            "tehsil_code_census": "00856",
+            "tehsil_name_english": "Moth"
+        }
+    ],
+    "167": [
+        {
+            "tehsil_name": "तालबेहट",
+            "tehsil_code_census": "00861",
+            "tehsil_name_english": "Talbehat"
+        },
+        {
+            "tehsil_name": "पाली",
+            "tehsil_code_census": "01046",
+            "tehsil_name_english": "Pali"
+        },
+        {
+            "tehsil_name": "मडावरा",
+            "tehsil_code_census": "01047",
+            "tehsil_name_english": "Madawara"
+        },
+        {
+            "tehsil_name": "महरौनी",
+            "tehsil_code_census": "00863",
+            "tehsil_name_english": "Mahruni"
+        },
+        {
+            "tehsil_name": "ललितपुर",
+            "tehsil_code_census": "00862",
+            "tehsil_name_english": "Lalitpur"
+        }
+    ],
+    "168": [
+        {
+            "tehsil_name": "मौदहा",
+            "tehsil_code_census": "00867",
+            "tehsil_name_english": "Maudaha"
+        },
+        {
+            "tehsil_name": "राठ",
+            "tehsil_code_census": "00865",
+            "tehsil_name_english": "Rath"
+        },
+        {
+            "tehsil_name": "सरीला",
+            "tehsil_code_census": "00866",
+            "tehsil_name_english": "Sarila"
+        },
+        {
+            "tehsil_name": "हमीरपुर",
+            "tehsil_code_census": "00864",
+            "tehsil_name_english": "Hamirpur"
+        }
+    ],
+    "169": [
+        {
+            "tehsil_name": "कुलपहाङ",
+            "tehsil_code_census": "00868",
+            "tehsil_name_english": "Kulpahar"
+        },
+        {
+            "tehsil_name": "चरखारी",
+            "tehsil_code_census": "00869",
+            "tehsil_name_english": "Charkhari"
+        },
+        {
+            "tehsil_name": "महोबा",
+            "tehsil_code_census": "00870",
+            "tehsil_name_english": "Mahoba "
+        }
+    ],
+    "170": [
+        {
+            "tehsil_name": "अतर्रा",
+            "tehsil_code_census": "00873",
+            "tehsil_name_english": "Atarra"
+        },
+        {
+            "tehsil_name": "नरैनी",
+            "tehsil_code_census": "00874",
+            "tehsil_name_english": "Nraini"
+        },
+        {
+            "tehsil_name": "पैलानी",
+            "tehsil_code_census": "01029",
+            "tehsil_name_english": "Pailani"
+        },
+        {
+            "tehsil_name": "बबेरू",
+            "tehsil_code_census": "00872",
+            "tehsil_name_english": "Baberu"
+        },
+        {
+            "tehsil_name": "बाँदा",
+            "tehsil_code_census": "00871",
+            "tehsil_name_english": "Banda"
+        }
+    ],
+    "171": [
+        {
+            "tehsil_name": "कर्वी",
+            "tehsil_code_census": "00875",
+            "tehsil_name_english": "Karwi"
+        },
+        {
+            "tehsil_name": "मऊ",
+            "tehsil_code_census": "00876",
+            "tehsil_name_english": "Mau"
+        },
+        {
+            "tehsil_name": "मानिकपुर",
+            "tehsil_code_census": "01031",
+            "tehsil_name_english": "Manikpur"
+        },
+        {
+            "tehsil_name": "राजापुर",
+            "tehsil_code_census": "01032",
+            "tehsil_name_english": "Rajapur"
+        }
+    ],
+    "172": [
+        {
+            "tehsil_name": "खागा",
+            "tehsil_code_census": "00879",
+            "tehsil_name_english": "Khaga"
+        },
+        {
+            "tehsil_name": "फतेहपुर सदर",
+            "tehsil_code_census": "00878",
+            "tehsil_name_english": "Fatehpur Sadar"
+        },
+        {
+            "tehsil_name": "बिन्दकी",
+            "tehsil_code_census": "00877",
+            "tehsil_name_english": "Bindki"
+        }
+    ],
+    "173": [
+        {
+            "tehsil_name": "कुण्डा",
+            "tehsil_code_census": "00881",
+            "tehsil_name_english": "Kunda"
+        },
+        {
+            "tehsil_name": "पटटी",
+            "tehsil_code_census": "00883",
+            "tehsil_name_english": "Patti"
+        },
+        {
+            "tehsil_name": "प्रतापगढ़",
+            "tehsil_code_census": "00882",
+            "tehsil_name_english": "Pratapgarh"
+        },
+        {
+            "tehsil_name": "रानीगंज",
+            "tehsil_code_census": "00884",
+            "tehsil_name_english": "Raniganj"
+        },
+        {
+            "tehsil_name": "लालगंज",
+            "tehsil_code_census": "00880",
+            "tehsil_name_english": "Lalganj"
+        }
+    ],
+    "174": [
+        {
+            "tehsil_name": "चायल",
+            "tehsil_code_census": "00887",
+            "tehsil_name_english": "Chayal"
+        },
+        {
+            "tehsil_name": "मंझनपुर",
+            "tehsil_code_census": "00886",
+            "tehsil_name_english": "Manjhanpur"
+        },
+        {
+            "tehsil_name": "सिराथू",
+            "tehsil_code_census": "00885",
+            "tehsil_name_english": "Sirathu"
+        }
+    ],
+    "175": [
+        {
+            "tehsil_name": "करछना",
+            "tehsil_code_census": "00892",
+            "tehsil_name_english": "Karchna"
+        },
+        {
+            "tehsil_name": "कोरांव",
+            "tehsil_code_census": "00895",
+            "tehsil_name_english": "Koraon"
+        },
+        {
+            "tehsil_name": "फूलपुर",
+            "tehsil_code_census": "00889",
+            "tehsil_name_english": "Phulpur"
+        },
+        {
+            "tehsil_name": "बारा",
+            "tehsil_code_census": "00891",
+            "tehsil_name_english": "Bara"
+        },
+        {
+            "tehsil_name": "मेजा",
+            "tehsil_code_census": "00894",
+            "tehsil_name_english": "Meja"
+        },
+        {
+            "tehsil_name": "सदर",
+            "tehsil_code_census": "00890",
+            "tehsil_name_english": "Allahabad"
+        },
+        {
+            "tehsil_name": "सोरांव",
+            "tehsil_code_census": "00888",
+            "tehsil_name_english": "Soraon"
+        },
+        {
+            "tehsil_name": "हंडिया",
+            "tehsil_code_census": "00893",
+            "tehsil_name_english": "Handia"
+        }
+    ],
+    "176": [
+        {
+            "tehsil_name": "नबाबगंज",
+            "tehsil_code_census": "00898",
+            "tehsil_name_english": "Nawabganj "
+        },
+        {
+            "tehsil_name": "फतेहपुर",
+            "tehsil_code_census": "00896",
+            "tehsil_name_english": "Fatehpur"
+        },
+        {
+            "tehsil_name": "रामनगर",
+            "tehsil_code_census": "00897",
+            "tehsil_name_english": "Ramnagar"
+        },
+        {
+            "tehsil_name": "रामसनेही घाट",
+            "tehsil_code_census": "00900",
+            "tehsil_name_english": "Ramsnehi pier"
+        },
+        {
+            "tehsil_name": "सिरौली गौसपुर",
+            "tehsil_code_census": "00899",
+            "tehsil_name_english": "Siruli Guspur"
+        },
+        {
+            "tehsil_name": "हैदरगढ़",
+            "tehsil_code_census": "00901",
+            "tehsil_name_english": "Haidargarh"
+        }
+    ],
+    "177": [
+        {
+            "tehsil_name": "बीकापुर",
+            "tehsil_code_census": "00906",
+            "tehsil_name_english": "Bikapur"
+        },
+        {
+            "tehsil_name": "मिल्कीपुर",
+            "tehsil_code_census": "00903",
+            "tehsil_name_english": "Milkipur"
+        },
+        {
+            "tehsil_name": "रूदौली",
+            "tehsil_code_census": "00902",
+            "tehsil_name_english": "Rudauli"
+        },
+        {
+            "tehsil_name": "सदर",
+            "tehsil_code_census": "00905",
+            "tehsil_name_english": "Faizabad"
+        },
+        {
+            "tehsil_name": "सोहावल",
+            "tehsil_code_census": "00904",
+            "tehsil_name_english": "Sohwal"
+        }
+    ],
+    "178": [
+        {
+            "tehsil_name": "अकबरपुर",
+            "tehsil_code_census": "00910",
+            "tehsil_name_english": "Akbarpur"
+        },
+        {
+            "tehsil_name": "आलापुर",
+            "tehsil_code_census": "00908",
+            "tehsil_name_english": "Alapur"
+        },
+        {
+            "tehsil_name": "जलालपुर",
+            "tehsil_code_census": "00909",
+            "tehsil_name_english": "Jalalpur"
+        },
+        {
+            "tehsil_name": "टाण्डा",
+            "tehsil_code_census": "00907",
+            "tehsil_name_english": "Tanda"
+        },
+        {
+            "tehsil_name": "भीटी",
+            "tehsil_code_census": "00911",
+            "tehsil_name_english": "Bhiti"
+        }
+    ],
+    "179": [
+        {
+            "tehsil_name": "कादीपुर",
+            "tehsil_code_census": "00918",
+            "tehsil_name_english": "Kadipur"
+        },
+        {
+            "tehsil_name": "जयसिंहपुर",
+            "tehsil_code_census": "00916",
+            "tehsil_name_english": "Jaisinghpur"
+        },
+        {
+            "tehsil_name": "बल्दीराय",
+            "tehsil_code_census": "01058",
+            "tehsil_name_english": "Baldirai"
+        },
+        {
+            "tehsil_name": "लम्भुआ",
+            "tehsil_code_census": "00917",
+            "tehsil_name_english": "Lmbhua"
+        },
+        {
+            "tehsil_name": "सदर",
+            "tehsil_code_census": "00915",
+            "tehsil_name_english": "Sultanpur"
+        }
+    ],
+    "180": [
+        {
+            "tehsil_name": "कैसरगंज",
+            "tehsil_code_census": "00922",
+            "tehsil_name_english": "Kaisarganj"
+        },
+        {
+            "tehsil_name": "नानपारा",
+            "tehsil_code_census": "00919",
+            "tehsil_name_english": "Nanpara"
+        },
+        {
+            "tehsil_name": "पयागपुर",
+            "tehsil_code_census": "01052",
+            "tehsil_name_english": "Payagpur"
+        },
+        {
+            "tehsil_name": "बहराइच",
+            "tehsil_code_census": "00921",
+            "tehsil_name_english": "Bahraich"
+        },
+        {
+            "tehsil_name": "महसी",
+            "tehsil_code_census": "00920",
+            "tehsil_name_english": "Mahsi"
+        },
+        {
+            "tehsil_name": "मिहींपुरवा स्थित मोतीपुर",
+            "tehsil_code_census": "01055",
+            "tehsil_name_english": "Mihinpurwa Motipur"
+        }
+    ],
+    "181": [
+        {
+            "tehsil_name": "इकौना",
+            "tehsil_code_census": "00924",
+            "tehsil_name_english": "Ikauna"
+        },
+        {
+            "tehsil_name": "जमुनहा",
+            "tehsil_code_census": "01034",
+            "tehsil_name_english": "Jamunaha"
+        },
+        {
+            "tehsil_name": "भिनगा",
+            "tehsil_code_census": "00923",
+            "tehsil_name_english": "Bhinga"
+        }
+    ],
+    "182": [
+        {
+            "tehsil_name": "उतरौला",
+            "tehsil_code_census": "00927",
+            "tehsil_name_english": "Utrula"
+        },
+        {
+            "tehsil_name": "तुलसीपुर",
+            "tehsil_code_census": "00926",
+            "tehsil_name_english": "Tulsipur"
+        },
+        {
+            "tehsil_name": "बलरामपुर",
+            "tehsil_code_census": "00925",
+            "tehsil_name_english": "Balrampur"
+        }
+    ],
+    "183": [
+        {
+            "tehsil_name": "करनैलगंज",
+            "tehsil_code_census": "00929",
+            "tehsil_name_english": "Colonelganj "
+        },
+        {
+            "tehsil_name": "गोण्डा",
+            "tehsil_code_census": "00928",
+            "tehsil_name_english": "Gonda"
+        },
+        {
+            "tehsil_name": "तरबगंज",
+            "tehsil_code_census": "00930",
+            "tehsil_name_english": "Tarabganj"
+        },
+        {
+            "tehsil_name": "मनकापुर",
+            "tehsil_code_census": "00931",
+            "tehsil_name_english": "MANKAPUR"
+        }
+    ],
+    "184": [
+        {
+            "tehsil_name": "इटवा",
+            "tehsil_code_census": "00935",
+            "tehsil_name_english": "Itwa"
+        },
+        {
+            "tehsil_name": "डुमरियागंज",
+            "tehsil_code_census": "00936",
+            "tehsil_name_english": "Domariyaganj"
+        },
+        {
+            "tehsil_name": "नौगढ",
+            "tehsil_code_census": "00933",
+            "tehsil_name_english": "Naugarh"
+        },
+        {
+            "tehsil_name": "बाँसी",
+            "tehsil_code_census": "00934",
+            "tehsil_name_english": "Bansi"
+        },
+        {
+            "tehsil_name": "शोहरतगढ़",
+            "tehsil_code_census": "00932",
+            "tehsil_name_english": "Shohratgarh"
+        }
+    ],
+    "185": [
+        {
+            "tehsil_name": "बस्ती",
+            "tehsil_code_census": "00939",
+            "tehsil_name_english": "Basti"
+        },
+        {
+            "tehsil_name": "भानपुर",
+            "tehsil_code_census": "00937",
+            "tehsil_name_english": "Bhanpur"
+        },
+        {
+            "tehsil_name": "रूधौली",
+            "tehsil_code_census": "00940",
+            "tehsil_name_english": "Rudhauli"
+        },
+        {
+            "tehsil_name": "हरैया",
+            "tehsil_code_census": "00938",
+            "tehsil_name_english": "Harraiya"
+        }
+    ],
+    "186": [
+        {
+            "tehsil_name": "खलीलाबाद",
+            "tehsil_code_census": "00942",
+            "tehsil_name_english": "Khalilabad"
+        },
+        {
+            "tehsil_name": "धनघटा",
+            "tehsil_code_census": "00943",
+            "tehsil_name_english": "Ghanghata"
+        },
+        {
+            "tehsil_name": "मेहदावल",
+            "tehsil_code_census": "00941",
+            "tehsil_name_english": "Mehdawal"
+        }
+    ],
+    "187": [
+        {
+            "tehsil_name": "निचलौल",
+            "tehsil_code_census": "00945",
+            "tehsil_name_english": "Nichlaul"
+        },
+        {
+            "tehsil_name": "नौतनवॉ",
+            "tehsil_code_census": "00944",
+            "tehsil_name_english": "Nautanwa"
+        },
+        {
+            "tehsil_name": "फरेन्दा",
+            "tehsil_code_census": "00946",
+            "tehsil_name_english": "Pharenda"
+        },
+        {
+            "tehsil_name": "महराजगंज",
+            "tehsil_code_census": "00947",
+            "tehsil_name_english": "Maharajganj (Sadar)"
+        }
+    ],
+    "188": [
+        {
+            "tehsil_name": "कैम्पियरगंज",
+            "tehsil_code_census": "00948",
+            "tehsil_name_english": "Campierganj"
+        },
+        {
+            "tehsil_name": "खजनी",
+            "tehsil_code_census": "00953",
+            "tehsil_name_english": "Khajni"
+        },
+        {
+            "tehsil_name": "गोला",
+            "tehsil_code_census": "00954",
+            "tehsil_name_english": "Gola "
+        },
+        {
+            "tehsil_name": "चौरीचौरा",
+            "tehsil_code_census": "00951",
+            "tehsil_name_english": "Chauri Chaura"
+        },
+        {
+            "tehsil_name": "बाँसगांव",
+            "tehsil_code_census": "00952",
+            "tehsil_name_english": "Bansgaon"
+        },
+        {
+            "tehsil_name": "सदर",
+            "tehsil_code_census": "00950",
+            "tehsil_name_english": "Gorakhpur"
+        },
+        {
+            "tehsil_name": "सहजनवां",
+            "tehsil_code_census": "00949",
+            "tehsil_name_english": "Sahjanwa"
+        }
+    ],
+    "189": [
+        {
+            "tehsil_name": "कप्तानगंज",
+            "tehsil_code_census": "01037",
+            "tehsil_name_english": "Kaptanganj"
+        },
+        {
+            "tehsil_name": "कसया",
+            "tehsil_code_census": "00957",
+            "tehsil_name_english": "Kasya"
+        },
+        {
+            "tehsil_name": "खड्डा",
+            "tehsil_code_census": "01036",
+            "tehsil_name_english": "Khadda"
+        },
+        {
+            "tehsil_name": "तमकुही राज",
+            "tehsil_code_census": "00958",
+            "tehsil_name_english": "Tamkuhi Raj"
+        },
+        {
+            "tehsil_name": "पडरौना",
+            "tehsil_code_census": "00955",
+            "tehsil_name_english": "Padrauna"
+        },
+        {
+            "tehsil_name": "हाटा",
+            "tehsil_code_census": "00956",
+            "tehsil_name_english": "Hata"
+        }
+    ],
+    "190": [
+        {
+            "tehsil_name": "देवरिया",
+            "tehsil_code_census": "00959",
+            "tehsil_name_english": "Deoria"
+        },
+        {
+            "tehsil_name": "बरहज",
+            "tehsil_code_census": "00961",
+            "tehsil_name_english": "Brhaz"
+        },
+        {
+            "tehsil_name": "भाटपाररानी",
+            "tehsil_code_census": "00963",
+            "tehsil_name_english": "Batparrani"
+        },
+        {
+            "tehsil_name": "रुद्रपुर",
+            "tehsil_code_census": "00960",
+            "tehsil_name_english": "Rudrapur"
+        },
+        {
+            "tehsil_name": "सलेमपुर",
+            "tehsil_code_census": "00962",
+            "tehsil_name_english": "Slempur"
+        }
+    ],
+    "191": [
+        {
+            "tehsil_name": "निजामाबाद",
+            "tehsil_code_census": "00967",
+            "tehsil_name_english": "Nizamabad"
+        },
+        {
+            "tehsil_name": "फूलपुर",
+            "tehsil_code_census": "00968",
+            "tehsil_name_english": "Phulpur"
+        },
+        {
+            "tehsil_name": "बूढ़नपुर",
+            "tehsil_code_census": "00964",
+            "tehsil_name_english": "Burhanpur"
+        },
+        {
+            "tehsil_name": "मार्टिनगंज",
+            "tehsil_code_census": "01045",
+            "tehsil_name_english": "Martinganj"
+        },
+        {
+            "tehsil_name": "मेहनगर",
+            "tehsil_code_census": "00970",
+            "tehsil_name_english": "Mehnagr"
+        },
+        {
+            "tehsil_name": "लालगंज",
+            "tehsil_code_census": "00969",
+            "tehsil_name_english": "Lalganj"
+        },
+        {
+            "tehsil_name": "सगड़ी",
+            "tehsil_code_census": "00965",
+            "tehsil_name_english": "Sagri"
+        },
+        {
+            "tehsil_name": "सदर",
+            "tehsil_code_census": "00966",
+            "tehsil_name_english": "Azamgarh "
+        }
+    ],
+    "192": [
+        {
+            "tehsil_name": "घोसी",
+            "tehsil_code_census": "00971",
+            "tehsil_name_english": "Ghosi"
+        },
+        {
+            "tehsil_name": "मऊनाथ भंजन",
+            "tehsil_code_census": "00973",
+            "tehsil_name_english": "Maunath bhanjan"
+        },
+        {
+            "tehsil_name": "मधुबन",
+            "tehsil_code_census": "00972",
+            "tehsil_name_english": "Madhuban"
+        },
+        {
+            "tehsil_name": "मुहम्मदाबाद गोहना",
+            "tehsil_code_census": "00974",
+            "tehsil_name_english": "Muhammadabad Gohna"
+        }
+    ],
+    "193": [
+        {
+            "tehsil_name": "बलिया सदर",
+            "tehsil_code_census": "00978",
+            "tehsil_name_english": "Balia Sadar"
+        },
+        {
+            "tehsil_name": "बाँसडीह",
+            "tehsil_code_census": "00979",
+            "tehsil_name_english": "Bansdih"
+        },
+        {
+            "tehsil_name": "बेल्थरा रोड",
+            "tehsil_code_census": "00975",
+            "tehsil_name_english": "Belthra Road"
+        },
+        {
+            "tehsil_name": "बैरिया",
+            "tehsil_code_census": "00980",
+            "tehsil_name_english": "Baria"
+        },
+        {
+            "tehsil_name": "रसड़ा",
+            "tehsil_code_census": "00977",
+            "tehsil_name_english": "Rasra"
+        },
+        {
+            "tehsil_name": "सिकन्दरपुर",
+            "tehsil_code_census": "00976",
+            "tehsil_name_english": "Sikandarpur"
+        }
+    ],
+    "194": [
+        {
+            "tehsil_name": "केराकत",
+            "tehsil_code_census": "00986",
+            "tehsil_name_english": "Kerakt"
+        },
+        {
+            "tehsil_name": "बदलापुर",
+            "tehsil_code_census": "00982",
+            "tehsil_name_english": "Badlapur"
+        },
+        {
+            "tehsil_name": "मछली शहर",
+            "tehsil_code_census": "00983",
+            "tehsil_name_english": "Machhlishahr"
+        },
+        {
+            "tehsil_name": "मडियाहूँ",
+            "tehsil_code_census": "00985",
+            "tehsil_name_english": "Mariahu "
+        },
+        {
+            "tehsil_name": "शाहगंज",
+            "tehsil_code_census": "00981",
+            "tehsil_name_english": "Shahganj"
+        },
+        {
+            "tehsil_name": "सदर",
+            "tehsil_code_census": "00984",
+            "tehsil_name_english": "Jaunpur "
+        }
+    ],
+    "195": [
+        {
+            "tehsil_name": "कासिमाबाद",
+            "tehsil_code_census": "01043",
+            "tehsil_name_english": "Kasimabad"
+        },
+        {
+            "tehsil_name": "गाजीपुर",
+            "tehsil_code_census": "00989",
+            "tehsil_name_english": "Ghazipur"
+        },
+        {
+            "tehsil_name": "जखनियाँ",
+            "tehsil_code_census": "00987",
+            "tehsil_name_english": "Jakhania"
+        },
+        {
+            "tehsil_name": "जमानियां",
+            "tehsil_code_census": "00991",
+            "tehsil_name_english": "Zamania"
+        },
+        {
+            "tehsil_name": "मुहम्मदावाद",
+            "tehsil_code_census": "00990",
+            "tehsil_name_english": "Mohammadabad "
+        },
+        {
+            "tehsil_name": "सेवराई",
+            "tehsil_code_census": "01051",
+            "tehsil_name_english": "Sevrai"
+        },
+        {
+            "tehsil_name": "सैदपुर",
+            "tehsil_code_census": "00988",
+            "tehsil_name_english": "Saidpur"
+        }
+    ],
+    "196": [
+        {
+            "tehsil_name": "चकिया",
+            "tehsil_code_census": "00994",
+            "tehsil_name_english": "Chakia"
+        },
+        {
+            "tehsil_name": "चन्दौली",
+            "tehsil_code_census": "00993",
+            "tehsil_name_english": "Chandauli"
+        },
+        {
+            "tehsil_name": "नौगढ़",
+            "tehsil_code_census": "01053",
+            "tehsil_name_english": "Naugarh"
+        },
+        {
+            "tehsil_name": "मुगलसराय",
+            "tehsil_code_census": "01042",
+            "tehsil_name_english": "Mugalsarai"
+        },
+        {
+            "tehsil_name": "सकलडीहा",
+            "tehsil_code_census": "00992",
+            "tehsil_name_english": "Sakaldiha"
+        }
+    ],
+    "197": [
+        {
+            "tehsil_name": "पिण्डरा",
+            "tehsil_code_census": "00995",
+            "tehsil_name_english": "Pindra"
+        },
+        {
+            "tehsil_name": "राजा तालाब",
+            "tehsil_code_census": "01035",
+            "tehsil_name_english": "Raja Ka Talab"
+        },
+        {
+            "tehsil_name": "सदर",
+            "tehsil_code_census": "00996",
+            "tehsil_name_english": "Varanasi"
+        }
+    ],
+    "198": [
+        {
+            "tehsil_name": "औराई्",
+            "tehsil_code_census": "00999",
+            "tehsil_name_english": "Aurai"
+        },
+        {
+            "tehsil_name": "ज्ञानपुर",
+            "tehsil_code_census": "00998",
+            "tehsil_name_english": "Gyanpur"
+        },
+        {
+            "tehsil_name": "भदोही",
+            "tehsil_code_census": "00997",
+            "tehsil_name_english": "Bhadohi"
+        }
+    ],
+    "199": [
+        {
+            "tehsil_name": "चुनार",
+            "tehsil_code_census": "01003",
+            "tehsil_name_english": "Chunar"
+        },
+        {
+            "tehsil_name": "मडिहान",
+            "tehsil_code_census": "01002",
+            "tehsil_name_english": "Marihan"
+        },
+        {
+            "tehsil_name": "लालगंज",
+            "tehsil_code_census": "01001",
+            "tehsil_name_english": "Lalganj"
+        },
+        {
+            "tehsil_name": "सदर",
+            "tehsil_code_census": "01000",
+            "tehsil_name_english": "Mirzapur"
+        }
+    ],
+    "200": [
+        {
+            "tehsil_name": "ओबरा",
+            "tehsil_code_census": "01062",
+            "tehsil_name_english": "Obra"
+        },
+        {
+            "tehsil_name": "घोरावल",
+            "tehsil_code_census": "01004",
+            "tehsil_name_english": "Ghorawal"
+        },
+        {
+            "tehsil_name": "दुद्धी",
+            "tehsil_code_census": "01006",
+            "tehsil_name_english": "Duddhi"
+        },
+        {
+            "tehsil_name": "राबर्टसगंज",
+            "tehsil_code_census": "01005",
+            "tehsil_name_english": "Rabertsganj"
+        }
+    ],
+    "201": [
+        {
+            "tehsil_name": "अलीगंज",
+            "tehsil_code_census": "01007",
+            "tehsil_name_english": "Aliganj"
+        },
+        {
+            "tehsil_name": "एटा",
+            "tehsil_code_census": "01008",
+            "tehsil_name_english": "Eta"
+        },
+        {
+            "tehsil_name": "जलेसर",
+            "tehsil_code_census": "01009",
+            "tehsil_name_english": "Jlesr"
+        }
+    ],
+    "202": [
+        {
+            "tehsil_name": "कासगंज",
+            "tehsil_code_census": "01010",
+            "tehsil_name_english": "Kasganj"
+        },
+        {
+            "tehsil_name": "पटियाली",
+            "tehsil_code_census": "01012",
+            "tehsil_name_english": "Patiali"
+        },
+        {
+            "tehsil_name": "सहावर",
+            "tehsil_code_census": "01011",
+            "tehsil_name_english": "Sahawar"
+        }
+    ],
+    "203": [
+        {
+            "tehsil_name": "अमेठी",
+            "tehsil_code_census": "00914",
+            "tehsil_name_english": "Amethi"
+        },
+        {
+            "tehsil_name": "गौरीगंज",
+            "tehsil_code_census": "00913",
+            "tehsil_name_english": "Gauriganj"
+        },
+        {
+            "tehsil_name": "तिलोई",
+            "tehsil_code_census": "00824",
+            "tehsil_name_english": "Tiloi"
+        },
+        {
+            "tehsil_name": "मुसाफिरखाना",
+            "tehsil_code_census": "00912",
+            "tehsil_name_english": "Musafirkhana"
+        }
+    ],
+    "204": [
+        {
+            "tehsil_name": "गढ़ मुक्तेश्वर",
+            "tehsil_code_census": "00741",
+            "tehsil_name_english": "GarhMukteshwar"
+        },
+        {
+            "tehsil_name": "धौलाना",
+            "tehsil_code_census": "01019",
+            "tehsil_name_english": "Dhaulana"
+        },
+        {
+            "tehsil_name": "हापुड़",
+            "tehsil_code_census": "00740",
+            "tehsil_name_english": "Hapur"
+        }
+    ],
+    "205": [
+        {
+            "tehsil_name": "गुन्नौर",
+            "tehsil_code_census": "00778",
+            "tehsil_name_english": "Gunnaur"
+        },
+        {
+            "tehsil_name": "चन्दौसी",
+            "tehsil_code_census": "00722",
+            "tehsil_name_english": "Chandausi"
+        },
+        {
+            "tehsil_name": "सम्भल",
+            "tehsil_code_census": "00721",
+            "tehsil_name_english": "Sambhal"
+        }
+    ],
+    "206": [
+        {
+            "tehsil_name": "ऊन",
+            "tehsil_code_census": "01039",
+            "tehsil_name_english": "Unn"
+        },
+        {
+            "tehsil_name": "कैराना",
+            "tehsil_code_census": "00706",
+            "tehsil_name_english": "Kairana"
+        },
+        {
+            "tehsil_name": "शामली",
+            "tehsil_code_census": "00707",
+            "tehsil_name_english": "Shamli"
+        }
+    ]
+}
