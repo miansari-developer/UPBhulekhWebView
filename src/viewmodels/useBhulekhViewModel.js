@@ -288,6 +288,26 @@ export const useBhulekhViewModel = () => {
     }
   };
 
+  const clearHistory = () => {
+    // Clear state
+    setRecentDistricts([]);
+    setRecentVillages([]);
+    setVillages([]);
+    
+    // Clear localStorage
+    localStorage.removeItem('recent_districts');
+    localStorage.removeItem('recent_villages');
+    
+    // Clear all village caches
+    Object.keys(localStorage).forEach(key => {
+      if (key.startsWith('village_')) {
+        localStorage.removeItem(key);
+      }
+    });
+    
+    showToast("इतिहास और कैश साफ कर दिया गया");
+  };
+
   const resetSelection = () => {
     setSelectedDistrict(null);
     setSelectedTehsil(null);
@@ -332,6 +352,7 @@ export const useBhulekhViewModel = () => {
     performSearch,
     viewDetail,
     resetSelection,
-    showToast
+    showToast,
+    clearHistory
   };
 };
