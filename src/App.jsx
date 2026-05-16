@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <BhulekhProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/UPBhulekhWebView">
         <AppRoutes />
       </BrowserRouter>
     </BhulekhProvider>
