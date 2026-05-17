@@ -17,6 +17,7 @@ export const useBhulekhViewModel = () => {
   const [detailHtml, setDetailHtml] = useState('');
   const [isSearchingResults, setIsSearchingResults] = useState(false);
   const [isFetchingVillages, setIsFetchingVillages] = useState(false);
+  const [villageFetchError, setVillageFetchError] = useState(null);
   const [toast, setToast] = useState({ show: false, message: '' });
   const toastTimeout = useRef(null);
 
@@ -131,6 +132,7 @@ export const useBhulekhViewModel = () => {
     setVillages([]);
     setIsSearching(false);
     setSearchTerm('');
+    setVillageFetchError(null);
 
     const cacheKey = `village_${selectedDistrict.district_code_census}_${tehsil.tehsil_code_census}`;
     const cachedVillages = localStorage.getItem(cacheKey);
@@ -154,7 +156,8 @@ export const useBhulekhViewModel = () => {
       setVillages(villageData);
       localStorage.setItem(cacheKey, JSON.stringify(villageData));
     } catch (e) {
-      showToast("Error fetching villages");
+      setVillageFetchError(e.message || "Failed to fetch villages");
+      showToast("Error fetching villages:" + e.message);
     } finally {
       setIsFetchingVillages(false);
     }
@@ -338,6 +341,7 @@ export const useBhulekhViewModel = () => {
     detailHtml,
     isSearchingResults,
     isFetchingVillages,
+    villageFetchError,
     toast,
 
     // Computed

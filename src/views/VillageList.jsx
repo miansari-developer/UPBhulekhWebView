@@ -10,7 +10,9 @@ const VillageList = () => {
     handleVillageSelect,
     selectedTehsil,
     isFetchingVillages,
-    searchTerm
+    searchTerm,
+    villageFetchError,
+    handleTehsilSelect
   } = useBhulekh();
   const navigate = useNavigate();
 
@@ -44,7 +46,21 @@ const VillageList = () => {
           </div>
         );
       })}
-      {filteredVillages.length === 0 && (
+      {villageFetchError && (
+        <div className="empty-state" style={{ height: '300px' }}>
+          <p style={{ color: 'var(--error-color, #dc3545)', marginBottom: '16px' }}>{villageFetchError}</p>
+          <button
+            className="search-button"
+            onClick={() => {
+              if (window.AndroidBridge) window.AndroidBridge.showInterstitial();
+              handleTehsilSelect(selectedTehsil)
+            }}
+          >
+            पुनः प्रयास करें
+          </button>
+        </div>
+      )}
+      {!villageFetchError && filteredVillages.length === 0 && (
         <div className="empty-state" style={{ height: '300px' }}>
           {isFetchingVillages ? (
             <div className="loading-container" style={{ padding: 0 }}>

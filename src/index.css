@@ -283,6 +283,27 @@ html {
   box-shadow: var(--md-elevation-2);
 }
 
+.search-button {
+  background: linear-gradient(135deg, var(--md-sys-color-primary), #8B6DE8);
+  color: var(--md-sys-color-on-primary);
+  border: none;
+  border-radius: 12px;
+  padding: 6px 12px;
+  font-size: 14px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.search-button:hover,
+.search-button:active {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(103, 80, 164, 0.35);
+  background: linear-gradient(135deg, #7A62B3, var(--md-sys-color-primary));
+}
+
 .dialog-overlay {
   position: fixed;
   top: 0;
