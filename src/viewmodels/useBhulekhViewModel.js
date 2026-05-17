@@ -214,9 +214,15 @@ export const useBhulekhViewModel = () => {
       return false;
     }
     try {
-      window.AndroidBridge.showInterstitial();
+      if (window.AndroidBridge) {
+        if (typeof window.AndroidBridge.showInterstitial === 'function') {
+          window.AndroidBridge.showInterstitial();
+        }
+      } else {
+        console.warn("Could not show interstitial ad (AndroidBridge not found)");
+      }
     } catch (e) {
-      console.error("Error showing interstitial ad", e);
+      console.warn("Could not show interstitial ad (handled Java exception):", e.message);
     }
 
     showToast("Searching...");
@@ -293,18 +299,18 @@ export const useBhulekhViewModel = () => {
     setRecentDistricts([]);
     setRecentVillages([]);
     setVillages([]);
-    
+
     // Clear localStorage
     localStorage.removeItem('recent_districts');
     localStorage.removeItem('recent_villages');
-    
+
     // Clear all village caches
     Object.keys(localStorage).forEach(key => {
       if (key.startsWith('village_')) {
         localStorage.removeItem(key);
       }
     });
-    
+
     showToast("इतिहास और कैश साफ कर दिया गया");
   };
 
