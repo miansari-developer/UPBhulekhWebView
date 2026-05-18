@@ -12,7 +12,7 @@ export const useBhulekhViewModel = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [isSearching, setIsSearching] = useState(false);
   const [searchBy, setSearchBy] = useState('khasra');
-  const [searchValue, setSearchValue] = useState('1');
+  const [searchValue, setSearchValue] = useState('');
   const [searchResults, setSearchResults] = useState([]);
   const [detailHtml, setDetailHtml] = useState('');
   const [isSearchingResults, setIsSearchingResults] = useState(false);
@@ -219,7 +219,7 @@ export const useBhulekhViewModel = () => {
     try {
       if (window.AndroidBridge) {
         if (typeof window.AndroidBridge.showInterstitial === 'function') {
-          window.AndroidBridge.showInterstitial();
+          //window.AndroidBridge.showInterstitial();
         }
       } else {
         console.warn("Could not show interstitial ad (AndroidBridge not found)");
@@ -314,7 +314,7 @@ export const useBhulekhViewModel = () => {
       }
     });
 
-    showToast("इतिहास और कैश साफ कर दिया गया");
+    showToast("Search history cleared!");
   };
 
   const resetSelection = () => {
