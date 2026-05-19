@@ -1,6 +1,11 @@
 import webViewBridge from '../WebViewBridge';
 
 export const BhulekhService = {
+  authenticateByClick: () => {
+    webViewBridge.executeInWebViewB(
+      `document.querySelector('.card-1')?.click();`
+    );
+  },
   getVillages: async (districtCode, tehsilCode) => {
     const villageData = await webViewBridge.executeInWebViewB(
       `return await getVillages("${districtCode}","${tehsilCode}")`

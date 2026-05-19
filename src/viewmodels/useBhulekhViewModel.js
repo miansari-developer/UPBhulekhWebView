@@ -124,6 +124,7 @@ export const useBhulekhViewModel = () => {
     setVillages([]);
     setIsSearching(false);
     setSearchTerm('');
+    BhulekhService.authenticateByClick();
   };
 
   const handleTehsilSelect = async (tehsil) => {
