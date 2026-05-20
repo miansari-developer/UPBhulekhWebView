@@ -43,6 +43,7 @@ const Layout = ({ children }) => {
   const navigate = useNavigate();
   const location = useLocation();
   const [showMenu, setShowMenu] = useState(false);
+  const [showConfirm, setShowConfirm] = useState(false);
   const menuRef = useRef(null);
 
   const {
@@ -152,9 +153,7 @@ const Layout = ({ children }) => {
                   <div className="dropdown-menu">
                     <button className="menu-item" onClick={() => {
                       setShowMenu(false);
-                      if (window.confirm("Are you sure you want to clear history and cache?")) {
-                        clearHistory();
-                      }
+                      setShowConfirm(true);
                     }}>
                       <DeleteIcon />
                       <span>Clear History</span>
@@ -174,6 +173,28 @@ const Layout = ({ children }) => {
       {toast.show && (
         <div className="toast-message">
           {toast.message}
+        </div>
+      )}
+
+      {showConfirm && (
+        <div className="confirm-dialog-overlay" onClick={() => setShowConfirm(false)}>
+          <div className="confirm-dialog-content" onClick={e => e.stopPropagation()}>
+            <h3 className="confirm-dialog-title">Clear History</h3>
+            <p className="confirm-dialog-message">
+              Are you sure you want to clear history? This action cannot be undone.
+            </p>
+            <div className="confirm-dialog-actions">
+              <button className="confirm-button secondary" onClick={() => setShowConfirm(false)}>
+                Cancel
+              </button>
+              <button className="confirm-button primary" onClick={() => {
+                clearHistory();
+                setShowConfirm(false);
+              }}>
+                Clear
+              </button>
+            </div>
+          </div>
         </div>
       )}
     </div>
