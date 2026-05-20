@@ -23,8 +23,8 @@ const VillageList = () => {
   }, [selectedTehsil, navigate, districtCode]);
 
   const onVillageClick = (village) => {
-    handleVillageSelect(village);
     navigate(`/district/${districtCode}/tehsil/${tehsilCode}/village/${village.village_code_census}/search`);
+    handleVillageSelect(village);
   };
 
   return (

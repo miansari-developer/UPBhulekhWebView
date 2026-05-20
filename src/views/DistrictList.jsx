@@ -7,8 +7,8 @@ const DistrictList = () => {
   const navigate = useNavigate();
 
   const onDistrictClick = (district) => {
-    handleDistrictSelect(district);
     navigate(`/district/${district.district_code_census}/tehsils`);
+    handleDistrictSelect(district);
   };
 
   return (
