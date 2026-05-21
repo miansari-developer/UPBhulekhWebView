@@ -217,10 +217,12 @@ export const useBhulekhViewModel = () => {
       showToast("कृपया अपना खसरा संख्या, खाता संख्या या नाम दर्ज करें");
       return false;
     }
+    console.log("searchBy = ", searchBy, " searchValue = ", searchValue);
     try {
       if (window.AndroidBridge) {
         if (typeof window.AndroidBridge.showInterstitial === 'function') {
-          //window.AndroidBridge.showInterstitial();
+          console.log("Calling showInterstitial ad");
+          window.AndroidBridge.showInterstitial();
         }
       } else {
         console.warn("Could not show interstitial ad (AndroidBridge not found)");
