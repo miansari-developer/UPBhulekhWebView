@@ -33,3 +33,23 @@ return new Promise(async (resolve, reject) => {
 });
 `;
 
+
+// async function getKhatauniData2() {
+//     let a = await getKhatauniData("137", "00729", "117550", "00001", "1175500211200112");
+//     log(JSON.stringify(a));
+// }
+
+// async function getKhataSearchResult2() {
+//     let a = await getKhataSearchResult("137", "00729", "117550", "1");
+//     log(JSON.stringify(a));
+// }
+
+// async function getFasliYears2() {
+//     let a = await getFasliYears("137", "00729", "117550");
+//     log(JSON.stringify(a));
+// }
+
+// async function getVillages2() {
+//     let a = await getVillages("137", "00729");
+//     log(JSON.stringify(a));
+// }
