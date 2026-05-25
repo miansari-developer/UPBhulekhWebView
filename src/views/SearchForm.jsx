@@ -1,6 +1,7 @@
-import { useEffect } from 'react';
+import { useEffect, useRef } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { useBhulekh } from '../hooks/useBhulekh';
+import HindiKeyboard from '../components/HindiKeyboard';
 
 const SearchForm = () => {
   const { districtCode, tehsilCode, villageCode } = useParams();
@@ -13,6 +14,7 @@ const SearchForm = () => {
     performSearch
   } = useBhulekh();
   const navigate = useNavigate();
+  const nameInputRef = useRef(null);
 
   useEffect(() => {
     if (!selectedVillage) {
@@ -46,11 +48,13 @@ const SearchForm = () => {
           {searchBy === 'khasra' ? 'खसरा संख्या' : searchBy === 'khata' ? 'खाता संख्या' : 'खातेदार का नाम'}
         </label>
         <input
+          ref={nameInputRef}
           className="form-input"
           type={`${searchBy === 'khasra' ? 'number' : searchBy === 'khata' ? 'number' : 'text'}`}
           placeholder={`${searchBy === 'khasra' ? 'खसरा संख्या' : searchBy === 'khata' ? 'खाता संख्या' : 'खातेदार का नाम'} दर्ज करें`}
           value={searchValue}
           onChange={e => setSearchValue(e.target.value)}
+          inputMode={searchBy === 'name' ? 'none' : undefined}
           required
         />
 
@@ -60,8 +64,18 @@ const SearchForm = () => {
         >
           खोजें
         </button>
+
       </div>
+
+      {searchBy === 'name' && (
+        <HindiKeyboard
+          inputRef={nameInputRef}
+          value={searchValue}
+          onChange={setSearchValue}
+        />
+      )}
     </div>
+
   );
 };
 

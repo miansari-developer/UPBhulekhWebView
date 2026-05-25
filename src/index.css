@@ -225,7 +225,9 @@ html {
 .search-form-container {
   padding: 16px;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
 }
 
 .search-form {
@@ -631,4 +633,70 @@ html {
   width: 20px;
   height: 20px;
   fill: var(--md-sys-color-on-surface-variant);
+}
+
+/* Hindi Virtual Keyboard Styles */
+.hindi-keyboard-container {
+  background-color: var(--md-sys-color-surface);
+  border: 1px solid var(--md-sys-color-outline-variant);
+  border-radius: 12px;
+  padding: 6px;
+  margin-top: 16px;
+  width: 100%;
+  max-width: 480px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.hindi-keyboard-grid {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  gap: 3px;
+}
+
+.hindi-keyboard-key {
+  aspect-ratio: 1;
+  background-color: var(--md-sys-color-surface);
+  border: 1px solid var(--md-sys-color-outline-variant);
+  border-radius: 12px;
+  color: var(--md-sys-color-on-surface);
+  font-size: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 0;
+  outline: none;
+  user-select: none;
+  transition: background-color 0.15s ease, transform 0.05s ease, border-color 0.15s ease;
+}
+
+.hindi-keyboard-key:active {
+  background-color: var(--md-sys-color-surface-variant);
+  border-color: var(--md-sys-color-outline);
+  transform: scale(0.92);
+}
+
+.hindi-keyboard-key.special-key {
+  background-color: var(--md-sys-color-surface-variant);
+  font-weight: bold;
+}
+
+.hindi-keyboard-key.special-key:active {
+  background-color: var(--md-sys-color-outline-variant);
+}
+
+@media (max-width: 360px) {
+  .hindi-keyboard-container {
+    padding: 4px;
+  }
+
+  .hindi-keyboard-grid {
+    gap: 3px;
+  }
+
+  .hindi-keyboard-key {
+    font-size: 17px;
+    border-radius: 8px;
+  }
 }
