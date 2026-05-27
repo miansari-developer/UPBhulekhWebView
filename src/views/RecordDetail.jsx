@@ -3,11 +3,57 @@ import { useNavigate } from 'react-router-dom';
 import { useBhulekh } from '../hooks/useBhulekh';
 
 const RecordDetail = () => {
-  const { detailHtml } = useBhulekh();
+  const {
+    selectedDistrict,
+    selectedTehsil,
+    selectedVillage,
+  } = useBhulekh();
+  const { detailHtml, showToast } = useBhulekh();
   const navigate = useNavigate();
   const [zoom, setZoom] = useState(1.0);
   const iframeRef = useRef(null);
   const zoomRef = useRef(zoom);
+
+  const handlePrint = () => {
+    try {
+      const bridge = window.AndroidBridge;
+      if (bridge && typeof bridge.postMessage === 'function') {
+        bridge.postMessage(
+          JSON.stringify({
+            type: 'PRINT',
+            payload: { html: detailHtml }
+          })
+        );
+        return;
+      }
+      window.print();
+    } catch (e) {
+      console.error('Error triggering print:', e);
+      if (showToast) {
+        showToast('प्रिंट करने में त्रुटि हुई');
+      } else {
+        alert('प्रिंट करने में त्रुटि हुई');
+      }
+    }
+  };
+
+  const handlePrintPDF = async () => {
+    const filename = `${selectedVillage.vname}-${selectedTehsil.tehsil_name}-${selectedDistrict.district_name}___${Date.now()}.pdf`;
+    try {
+      const bridge = window.AndroidBridge;
+      if (bridge && typeof bridge.postMessage === 'function') {
+        bridge.postMessage(
+          JSON.stringify({
+            type: 'PRINT_PDF',
+            payload: { html: detailHtml, filename }
+          })
+        );
+      }
+    } catch (e) {
+      console.error('Error triggering download as pdf:', e);
+      console.log('download Error');
+    }
+  };
 
   // Keep zoomRef up-to-date
   useEffect(() => {
@@ -127,7 +173,7 @@ const RecordDetail = () => {
   }, [detailHtml]);
 
   return (
-    <div style={{
+    <div className="record-detail-container" style={{
       position: 'fixed',
       top: 0,
       left: 0,
@@ -146,6 +192,16 @@ const RecordDetail = () => {
           </svg>
         </button>
         <h1 className="app-title">भू-अभिलेख विवरण</h1>
+        <button className="icon-button" onClick={handlePrint} aria-label="Print" title="प्रिंट">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+            <path d="M19 8H5c-1.66 0-3 1.34-3 3v6h4v4h12v-4h4v-6c0-1.66-1.34-3-3-3zm-3 11H8v-5h8v5zm3-7c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm-1-9H6v4h12V3z" />
+          </svg>
+        </button>
+        <button className="icon-button" onClick={handlePrintPDF} aria-label="Print PDF" title=" प्रिंट पीडीएफ">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+            <path d="M12 16l4-5h-3V4h-2v7H8l4 5zm-7 2v2h14v-2H5z" />
+          </svg>
+        </button>
       </header>
       <iframe
         ref={iframeRef}
@@ -157,7 +213,7 @@ const RecordDetail = () => {
           border: 'none',
           backgroundColor: 'white'
         }}
-        sandbox="allow-scripts allow-same-origin allow-forms allow-popups"
+        sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-modals"
       />
     </div>
   );
